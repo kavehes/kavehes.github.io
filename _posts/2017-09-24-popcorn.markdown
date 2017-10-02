@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2017-09-24
-img: popcorn.jpg
+img: popcorn_header.jpg
 alt: image-alt
 project-date: January 2017
 category: Game Jam
