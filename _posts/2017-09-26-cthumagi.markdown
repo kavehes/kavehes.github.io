@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 1
+date: 2017-09-26
+img: cthumagi.png
+alt: image-alt
+project-date: August 2017
+category: Game Jam
+description: Low Rez Jam 2017
+---
+Originally made for the LowResJam 2017, Cthulhu Magica is my first attempt at a J-RPG.
+
+The original idea for the game was the mixing of Lovecraftian inspired creatures and the world of Magical Girls, but it served as a personnal challenge for the most part as I finally managed to create a Text Editor in Unity that allows me to write branching dialogue. Post-jam, I am remaking the game from scratch to improve the tools I made and i'm setting the game's resolution to 256*192px. 
+
+Made with Unity, all assets were produced during the time of the jam.
