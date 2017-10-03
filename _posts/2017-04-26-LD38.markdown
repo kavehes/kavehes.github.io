@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2017-03-26
+img: ld38.jpg
+alt: image-alt
+project-date: April 2017
+category: Game Jam
+description: Ludum dare 38
+---
+Popcorn Escape is a game made during the Global Game Jam 2017.
