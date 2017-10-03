@@ -1,5 +1,6 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
+
 .portfolio-modal .modal-content p {
     margin: 0;
 	text-align: left;

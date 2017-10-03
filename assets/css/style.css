@@ -1,8 +1,0 @@
----
----
-
-@import "{{ site.theme }}";
-.portfolio-modal .modal-content p {
-    margin: 0;
-	text-align: left;
-}
