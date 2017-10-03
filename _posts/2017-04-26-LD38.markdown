@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2017-03-26
-img: ld38.jpg
+img: ld38.png
 alt: image-alt
 project-date: April 2017
 category: Game Jam
