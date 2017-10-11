@@ -8,4 +8,7 @@ project-date: March-June 2017
 category: Student Project
 description: Student project
 ---
-First year project at the ENJMIN, Dejeuner sur l herbe is a two players infiltration game where you take the role of two cannibals looking for their prey in the forest they live in.
+First year project at the ENJMIN
+
+"Déjeuner sur l'herbe" is a two players infiltration game where you take the role of two cannibals looking for their prey in the forest they live in.
+

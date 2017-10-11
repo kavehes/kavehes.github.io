@@ -8,4 +8,7 @@ project-date: April 2017
 category: Game Jam
 description: Ludum dare 38
 ---
-Popcorn Escape is a game made during the Global Game Jam 2017.
+"La Terre qu'il nous faut conquérir" is a turn-based strategy game taking place in a small planet no one claimed yet.
+![My helpful screenshot]({{ "/img/ld38/ltqnfc_1.png" | #}})
+Each player take turns and try to be the one owning the most tiles once the game ends.
+![My helpful screenshot]({{ "/img/ld38/ltqnfc_2.png" | #}})
