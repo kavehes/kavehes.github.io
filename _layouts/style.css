@@ -5,3 +5,9 @@
     margin: 0;
 	text-align: left;
 }
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
