@@ -15,3 +15,7 @@ La Terre qu'il nous faut conquerir is a turn-based strategy game taking place in
 Each player take turns and try to be the one owning the most tiles once the game ends.
 
 ![My helpful screenshot]({{ "/img/ld38/ltqnfc_2.png" | #}}){: .center-image }
+
+###### The game
+
+<iframe frameborder="0" src="https://itch.io/embed/137502?bg_color=b8deff&amp;fg_color=222222&amp;link_color=31a550&amp;border_color=333333" width="552" height="167"></iframe>
