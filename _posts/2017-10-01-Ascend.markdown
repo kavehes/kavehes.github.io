@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2017-09-26
+img: ascend.png
+alt: image-alt
+project-date: October 2017
+category: Student Project
+description: Master 2 project
+---
+Second year student project
