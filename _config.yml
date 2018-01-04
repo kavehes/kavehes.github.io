@@ -4,7 +4,7 @@ encoding: UTF-8
 title: Ke-Vinh Sagot's Work
 email: kvsagot@gmail.com
 url: https://kavehes.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Game Designer, student at the ENJMIN. Currently looking for a 6 month internship starting March 2018"
 keywords: "your keywords, separated by commas"
 skills: "Game Designer - Developper - Sometime Graphic Artist"
 meta_author: Ke-Vinh Sagot
@@ -27,8 +27,8 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
+  primary: 51b180 #18bc9c #80B3FF
+  primary-rgb: "81,177,128"  #"24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
