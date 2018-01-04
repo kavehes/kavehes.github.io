@@ -17,3 +17,7 @@ You and a friend plays as two rookie knights on their way way to defeat a monste
 ![My helpful screenshot]({{ "/img/prima/prima_screen1.jpg" | #}}){: .center-image }
 
 ![My helpful screenshot]({{ "/img/prima/prima_screen2.jpg" | #}}){: .center-image }
+
+https://www.artstation.com/volodia_chamard
+
+tu trouve pas ça trop coooooooooooool

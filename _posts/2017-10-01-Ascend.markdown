@@ -11,4 +11,6 @@ description: Master 2 project
 Second year student project.
 
 
+###### Concept art of the characters
+![Mockup]({{ "/img/ascend/photofamille.png" | #}})
 
