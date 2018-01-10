@@ -18,4 +18,9 @@ You and a friend plays as two rookie knights on their way way to defeat a monste
 
 ![My helpful screenshot]({{ "/img/prima/prima_screen2.jpg" | #}})
 
-Volodia Chamard - Artist : [Artstation](https://www.artstation.com/volodia_chamard)
+Graphics : Volodia Chamard [Artstation](https://www.artstation.com/volodia_chamard)
+Development : Thibault Baron
+UI/UX Design : Helios Moreau
+Sound Design : Alexandre Bobe
+Game Design : Colette Paugame, Ke-Vinh Sagot
+Producer : Hugues Vieu
