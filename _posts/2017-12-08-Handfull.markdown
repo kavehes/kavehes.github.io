@@ -38,4 +38,6 @@ Finally you take damage equals to the number of cards in your hand and your oppo
   
 Once one of the players' life drops to 0 or they can't draw a card, that player loses the game.  
 <br><br>
+#### The Game
 <iframe frameborder="0" src="https://itch.io/embed/200832" width="552" height="167"></iframe>
+If the displayed link is incorrect, please head **[here](https://kavehes.itch.io/a-hand-full-of-cards)**

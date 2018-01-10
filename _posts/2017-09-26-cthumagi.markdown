@@ -14,12 +14,13 @@ Originally made for the LowResJam 2017, Cthulhu Magica is my first attempt at a 
 The original idea for the game was the mixing of Lovecraftian inspired creatures and the world of Magical Girls, but it served as a personnal challenge for the most part as I finally managed to create a Text Editor in Unity that allows me to write branching dialogue. Post-jam, I am remaking the game from scratch to improve the tools I made and i'm setting the game's resolution to 256*192px. 
 
 
-
+<br><br>
 ###### Jam version
 
 <iframe frameborder="0" src="https://itch.io/embed/168196?bg_color=303030&amp;fg_color=ffffff&amp;link_color=fa5c5c&amp;border_color=333333" width="552" height="167"></iframe>
+If the displayed link is incorrect, please head **[here](https://kavehes.itch.io/magical-mythos)**  
 Made with Unity, all assets were produced during the time of the jam.
-
+<br><br>
 ###### First mockups of the game
 ![Mockup]({{ "/img/magicthu/mockup0.png" | #}})
 ![Mockup]({{ "/img/magicthu/mockup1.png" | #}})
