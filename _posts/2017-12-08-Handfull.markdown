@@ -4,8 +4,8 @@ modal-id: 0
 date: 2017-09-26
 img: handfull.png
 alt: image-alt
-project-date: October 2017
-category: Student Project
+project-date: December 2017
+category: Game Jam - Solo
 description: Ludum Dare 40
 ---
 A hand full of Blocks is a card game made during the Ludum Dare 40 done as a solo developper. It is a two player game where you are given 20 life point, a 20 cards' deck and must use it to make your opponent's life drop to 0, but you must be careful as at the end of each turn you lose life equals to your hand's size and "Block" card aren't discardable.
