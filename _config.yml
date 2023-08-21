@@ -1,12 +1,12 @@
 encoding: UTF-8
 
 # Site settings
-title: Ke-Vinh Sagot's Work
+title: Ke-Vinh Sagot's Portfolio
 email: kvsagot@gmail.com
 url: https://kavehes.github.io
-description: "Game Designer, student at the ENJMIN. Currently looking for a 6 month internship starting March 2018"
+description: "Level designer working at Ubisoft Annecy, currently on Riders Republic. Also Playdate developer when time allows"
 keywords: "your keywords, separated by commas"
-skills: "Game Designer - Developper - Sometime Graphic Artist"
+skills: "Game Dev - Level Designer - Pixel Artist sometimes"
 meta_author: Ke-Vinh Sagot
 
 # Google webmaster tools
@@ -41,17 +41,19 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: mastodon
+    url: https://mastodon.gamedev.place/@kavehes
   - title: twitter
     url: http://twitter.com/kvsagot
   - title: linkedin
     url: https://www.linkedin.com/in/ke-vinh-sagot/
-  - title: github
-    url: http://github.com/kavehes
+
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3, Rue Pierre Curie
-  - line: Angouleme, 16000
+  - line: 23bis Avenue des Romains
+  - line: Annecy, 74000
+  - line: France
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
