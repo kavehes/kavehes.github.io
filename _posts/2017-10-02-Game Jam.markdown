@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 3
+date: 2018-09-01
+img: gamejam.png
+alt: image-alt
+project-date: Current
+category: Personal project
+description: Solo Dev
+---
+
+Solo and Team games done over the years during game jams
+
+
+WIP
