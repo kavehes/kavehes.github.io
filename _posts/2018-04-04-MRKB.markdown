@@ -2,16 +2,28 @@
 layout: default
 modal-id: 1
 date: 2017-09-26
-img: ascend.png
+img: mrkb.png
 alt: image-alt
 project-date: October 2017
-category: Student Project
-description: Master 2 project
+category: Ubisoft
+description: Junior Level Designer
 ---
-Second year student project.  
-Ascend is a Third-Person Shooter set inside a gigantic tower draining the world of a mysterious liquid which destroyed the environment around it. Your task is to get to the top of the tower to learn more about what's happening to the world and put an end to the tower. But beware, as the inhabitants of the tower won't let you up so easily.
+
+Started March 2018 - June 2019
+
+Internship on Mario+Rabbids : Kingdom Battle third DLC, followed by Junior Level Design on Mario+Rabbids: Sparks of Hope during pre-production
+
+Working at Ubisoft Montreuil.
+
+### Mario+Rabbids:Kingdom Battle
+
+## Challenge and Support for closing of third DLC
+
+![Donkey Kong DLC]({{ "/img/mrkb/mrkb_DK" | #}})
 
 
-###### Concept art of the characters
-![Mockup]({{ "/img/ascend/photofamille.png" | #}})
+### Mario+Rabbids:Sparks of Hope
 
+## Pre-production topics and prototyping
+
+![Donkey Kong DLC]({{ "/img/mrkb/mrsh" | #}})
