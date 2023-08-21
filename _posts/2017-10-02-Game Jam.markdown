@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 5
+modal-id: 4
 date: 2018-09-01
 img: gamejam.png
 alt: image-alt
@@ -13,3 +13,8 @@ Solo and Team games done over the years during game jams
 
 
 WIP
+
+
+![popcorn]({{ "/img/portfolio/popcorn_header.jpg" | #}})
+![ld38]({{ "/img/portfolio/ld38.png" | #}})
+![cthumagi]({{ "/img/portfolio/cthumagi.jpg" | #}})
