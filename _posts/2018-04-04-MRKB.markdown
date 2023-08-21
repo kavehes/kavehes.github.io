@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2017-09-26
+date: 2019-09-26
 img: mrkb.png
 alt: image-alt
 project-date: March 2018
@@ -19,11 +19,11 @@ Working at Ubisoft Montreuil.
 
 ## Challenge and Support for closing of third DLC
 
-![Donkey Kong DLC]({{ "/img/mrkb/mrkb_DK" | #}})
+![DKDLC]({{ "/img/mrkb/mrkb_DK.jpg" | #}})
 
 
 ### Mario+Rabbids:Sparks of Hope
 
 ## Pre-production topics and prototyping
 
-![Donkey Kong DLC]({{ "/img/mrkb/mrsh" | #}})
+![SparksofHope]({{ "/img/mrkb/mrsh.jpg" | #}})

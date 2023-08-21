@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2019-04-04
+date: 2023-08-21
 img: ridersrepublic.png
 alt: image-alt
 project-date: July 2019
