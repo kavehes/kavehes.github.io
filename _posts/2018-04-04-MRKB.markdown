@@ -4,7 +4,7 @@ modal-id: 1
 date: 2017-09-26
 img: mrkb.png
 alt: image-alt
-project-date: October 2017
+project-date: March 2018
 category: Ubisoft
 description: Junior Level Designer
 ---
