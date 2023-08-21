@@ -19,9 +19,6 @@ Ludum dare solo project (LD51), using Playdate SDK (Lua) + Level Design Toolkit.
 
 
 ![Screen]({{ "/img/playdate/asimplejob1.png" | #}})
-<p align="center">
-  <img src="https://github.com/kavehes/kavehes.github.io/blob/master/img/playdate/asimplejob1.png?raw=true" alt="Sublime's custom image"/>
-</p>
 ![Screen]({{ "/img/playdate/asimplejob2.png" | #}})
 ![Screen]({{ "/img/playdate/asimplejob3.png" | #}})
 ![Screen]({{ "/img/playdate/asimplejob4.png" | #}})
