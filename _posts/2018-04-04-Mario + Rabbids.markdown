@@ -15,15 +15,15 @@ Internship on Mario+Rabbids : Kingdom Battle third DLC, followed by Junior Level
 
 Working at Ubisoft Montreuil.
 
-### Mario+Rabbids:Kingdom Battle
+## Mario+Rabbids:Kingdom Battle
 
-## Challenge and Support for closing of third DLC
+### Challenge and Support for closing of third DLC
 
 ![DKDLC]({{ "/img/mrkb/mrkb_DK.jpg" | #}})
 
 
-### Mario+Rabbids:Sparks of Hope
+## Mario+Rabbids:Sparks of Hope
 
-## Pre-production topics and prototyping
+### Pre-production topics and prototyping
 
 ![SparksofHope]({{ "/img/mrkb/mrsh.jpg" | #}})

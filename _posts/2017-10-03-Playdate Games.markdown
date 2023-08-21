@@ -13,7 +13,7 @@ Solo dev prototyping and game development on Playdate console.
 
 
 
-#### A Simple Job
+### A Simple Job
 
 Ludum dare solo project (LD51), using Playdate SDK (Lua) + Level Design Toolkit.
 
@@ -32,7 +32,7 @@ Ludum dare solo project (LD51), using Playdate SDK (Lua) + Level Design Toolkit.
 ![Screen]({{ "/img/playdate/asimplejob4.png" | #}})
 
 
-#### Things from the well
+### Things from the well
 
 First prototype using the console, currently on hold
 

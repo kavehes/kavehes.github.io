@@ -15,22 +15,28 @@ Level Designer on Riders Republic, a sport-social open world game by Ubisoft.
 
 Working at Ubisoft Annecy.
 
-### Main game and DLC events
+## Main game and DLC events
 
 ![Event1]({{ "/img/rr/event1.jpg" | #}})
 ![Event3]({{ "/img/rr/event3.jpg" | #}})
 
-### Multiplayer Arena
+## Multiplayer Arena
 
-## Hightower Castle
+
+
+### Hightower Castle
 ![TB1]({{ "/img/rr/trickbattle1.jpg" | #}})
 ![TB2]({{ "/img/rr/trickbattle2.jpg" | #}})
 
-## Showdown Arena
+
+
+### Showdown Arena
 ![SHD]({{ "/img/rr/showdown1.jpg" | #}})
 ![SHD]({{ "/img/rr/showdown2.jpg" | #}})
 
-## Mass Races (Main Game)
+### Mass Races (Main Game)
 
 https://www.youtube.com/watch?v=qbfEv_IhRCs
+
+
 https://www.youtube.com/watch?v=lZ3vDTCQjRM
