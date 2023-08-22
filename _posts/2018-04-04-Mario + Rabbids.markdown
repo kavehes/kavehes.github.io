@@ -19,7 +19,17 @@ Working at Ubisoft Montreuil.
 
 ### Challenge and Support for closing of third DLC
 
+
 ![DKDLC]({{ "/img/mrkb/mrkb_DK.jpg" | #}})
+
+
+Puzzle oriented challenges
+
+https://youtu.be/P6q3KAEPLwE?t=40
+
+
+https://youtu.be/WHjw64fvH4k?t=25
+
 
 
 ## Mario+Rabbids:Sparks of Hope
